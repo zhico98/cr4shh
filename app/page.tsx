@@ -85,7 +85,7 @@ export default function Cr4shInstaller() {
   }
 
   const handlePumpFun = () => {
-    window.open("https://bags.fm", "_blank")
+    window.open("https://bags.fm/6LWpReZZo75qpvH8465C7vXZrBSUuNMFJ6iEwKo2BAGS", "_blank")
   }
 
   const handleAbout = () => {
